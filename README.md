@@ -34,8 +34,8 @@ Welcome to [Your Project Name], a straightforward Python-based signup page that 
 To get started with the signup page, follow the [Getting Started](#getting-started) section in this README. It provides step-by-step instructions on how to set up and run the project locally.
 
 #### 1. Open in codespace
-Click on <code> code button
-select codespace from dropdown menu
+Click on <code> <>code </code> button
+select <code> codespace </code> from dropdown menu
 Then RUN
 #### 2. Download the Project
 
